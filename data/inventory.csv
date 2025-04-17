@@ -1,0 +1,5 @@
+product_id,product_name,stock_level,reorder_point,warehouse_id
+P001,Rice,300,100,W1
+P002,Toor Dal,120,80,W2
+P003,Milk,50,30,W1
+123,h2phones,7,3,12345
